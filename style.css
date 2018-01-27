@@ -1,3 +1,24 @@
-.img-responsive { 
+.banner_image { 
     width:100%;
+
+}
+
+
+
+.navbar {
+    color: #FFFFFF;
+    background-color: #DDDBF1;
+}
+
+.about {
+  color: #364156;
+}
+
+body {
+  background-color: #CDCDCD;
+}
+
+.experience {
+  color: #364156;
+
 }
