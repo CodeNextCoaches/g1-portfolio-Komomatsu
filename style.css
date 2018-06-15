@@ -7,7 +7,7 @@
 
 .navbar {
     color: #FFFFFF;
-    background-color: #DDDBF1;
+    background-color: #FFFFFF;
 }
 
 .about {
@@ -15,10 +15,19 @@
 }
 
 body {
-  background-color: #CDCDCD;
+  background-color: #FFFFFF;
 }
 
 .experience {
   color: #364156;
+
+}
+
+.logo {
+	transform: rotate(0deg);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: auto;
 
 }
