@@ -1,0 +1,46 @@
+body {
+  display: flex;
+  flex-direction: row;
+  background-color: #5EB1BF;
+
+  
+}
+
+body div {
+  text-align: center;
+  width: 75%;
+  margin: 0 auto;
+  border-top-style: inset;
+  border-left-style: inset;
+  border-right-style: dotted;
+  border-bottom-style: dotted;
+  border-width: 5px;
+  border-color: #D0BCD5;
+  padding: 10px;
+}
+
+.button {
+	background-color: white;
+	color: black;
+	font-size: 20px;
+	border: 2px solid #008CBA ;
+	transition-duration: 0.4s;
+
+}
+
+.button:hover{
+	background-color: #008CBA;
+	color: white;
+}
+
+.iris-input {
+	font-size: 120%;
+}
+
+.web-text {
+	font-size: 3000%;
+}
+
+.commands {
+	
+}
